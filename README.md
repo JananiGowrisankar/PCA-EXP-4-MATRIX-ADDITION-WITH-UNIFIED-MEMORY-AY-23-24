@@ -287,7 +287,8 @@ int main(int argc, char **argv)
 
 <img width="1775" height="888" alt="image" src="https://github.com/user-attachments/assets/dd377b9a-4e35-4f3b-bf1b-c69d07c35807" />
 
-![Uploading image.png…]()
+<img width="1802" height="831" alt="image" src="https://github.com/user-attachments/assets/0ec99004-71cf-4a1d-8eba-bb9982ab8113" />
+
 
 ## RESULT:
-Thus the program has been executed by using unified memory. It is observed that removing memset function has given less/more_______________time.
+Thus the program has been executed by using unified memory. It is observed that removing memset function has given more time.
